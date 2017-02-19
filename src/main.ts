@@ -1,3 +1,2 @@
-function main() {
-    console.log("hello world");
-}
+export * from "./fsa";
+export * from "./flux";
